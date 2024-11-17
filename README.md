@@ -1,4 +1,4 @@
-# CLIMATEWINS
+# ClimateWins
 # Climate Change Prediction
 ## Objective
 Climate Wins wants to use machine learning to predict the impact of climate change in Europe and possibly worldwide. As a data analyst, my job is to find the best resources for predicting climate changes where people live using machine learning methods
